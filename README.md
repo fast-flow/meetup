@@ -11,3 +11,4 @@ Inspired by Team Topologies, we've put together some resources to allow you to o
 * Wardley mapping, event storming
 * Developer experience and the human aspects of software engineering
 
+To get started, you can read about the [concept](concept.md) here.
