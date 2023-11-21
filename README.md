@@ -2,7 +2,7 @@
 
 We're a bunch of enthusiasts who like to talk about how organisational design impacts software architecture and delivery - and vice versa.
 
-Inspired by Team Topologies, we've put together some resources to allow you to organise your own meetup to discuss some of the ideas around:
+Inspired by Team Topologies and the original [Fast Flow conference](https://www.fastflowconf.com/) in London May 2023, we've put together some resources to allow you to organise your own meetup to discuss some of the ideas around:
 
 * Sociotechnical systems and Conway's Law
 * Managing cognitive load for faster flow of features
